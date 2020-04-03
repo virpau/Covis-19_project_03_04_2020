@@ -1,0 +1,1029 @@
+,country,province,symptoms,sex,age
+0,China,Anhui,fever,male,30
+1,China,Anhui,fever,male,47
+2,China,Anhui,fever,male,49
+3,China,Anhui,fever,female,47
+4,China,Anhui,fever,female,50
+6,China,Anhui,fever,female,42
+8,China,Anhui,fever,female,59
+9,China,Anhui,fever,male,30
+11,China,Anhui,fever,male,39
+13,China,Anhui,cough,female,38
+14,China,Anhui,fever,male,45
+17,China,Beijing,fever,female,33
+20,China,Beijing,fever,male,37
+21,China,Beijing,fever,male,39
+22,China,Beijing,respiratory symptoms,female,32
+23,China,Beijing,fever,male,45
+24,China,Beijing,fever,male,45
+25,China,Beijing,fever respiratory symptoms,female,18
+26,China,Beijing,fever respiratory symptoms,female,56
+27,China,Beijing,fever,male,42
+28,China,Beijing,fever,female,33
+37,China,Beijing,fever,male,44
+38,China,Beijing,fever,male,65
+39,China,Beijing,fever,male,21
+40,China,Beijing,fever,male,41
+55,China,Chongqing,fatigue fever,female,44
+78,China,Fujian,fever,female,30
+79,China,Fujian,fever,male,70
+80,China,Fujian,fever,female,43
+82,China,Fujian,fever,male,31
+88,China,Gansu,discomfort fever,male,43
+89,China,Gansu,cough fever headache muscular soreness weak,male,24
+90,China,Guangdong,cough dizziness,male,40
+98,China,Guangdong,cough fatigue fever weakness,male,66
+99,China,Guangdong,cough fever weakness,female,65
+100,China,Guangdong,cough diarrhea fever rhinorrhoea sneezing,male,36
+101,China,Guangdong,fever,male,10
+102,China,Guangdong,anhelation cough fever pleural effusion weakness,female,63
+103,China,Guangdong,diarrhea fever nasal congestion pleuritic chest pain sore throat,female,37
+118,China,Guangdong,fever,male,78
+119,China,Guangdong,fever,female,76
+120,China,Guangdong,fever,female,48
+121,China,Guangdong,cough,female,66
+143,China,Guangxi,fever,female,66
+144,China,Guangxi,cough fever,male,63
+145,China,Guangxi,cough fever,female,62
+146,China,Guangxi,fever,male,49
+147,China,Guangxi,fever,male,46
+149,China,Guangxi,cough fever,male,34
+150,China,Guangxi,fever,male,41
+151,China,Guangxi,fever weak,female,72
+152,China,Guangxi,cough fever muscular soreness,female,20
+153,China,Guangxi,cough fever,male,54
+154,China,Guangxi,fever,female,33
+155,China,Guangxi,chest distress cough expectoration muscular soreness,female,49
+158,China,Guangxi,fever,male,42
+159,China,Guangxi,cough headache,male,33
+160,China,Guangxi,fever sneeze,female,2
+161,China,Guangxi,discomfort,male,29
+162,China,Guangxi,cough muscular stiffness weak,male,62
+163,China,Guangxi,fever,male,61
+164,China,Guizhou,discomfort,male,20
+165,China,Guizhou,fever,male,51
+166,China,Guizhou,fever,female,50
+170,China,Hebei,cough fever,male,72
+171,China,Hebei,chest distress dyspnea,male,80
+172,China,Heilongjiang,cough expectoration fever,male,49
+173,China,Heilongjiang,cough fatigue fever sputum,male,69
+176,China,Henan,chest tightness dyspnea fever,male,66
+177,China,Henan,fever,female,32
+178,China,Henan,fever,male,28
+179,China,Henan,fever,male,55
+180,China,Henan,fever,male,68
+181,China,Henan,fever,female,30
+182,China,Henan,fever,female,34
+183,China,Henan,fever,female,30
+184,China,Henan,fever,male,50
+185,China,Hong Kong,cough fever,male,39
+186,China,Hong Kong,fever,male,56
+187,China,Hong Kong,fever,female,62
+188,China,Hong Kong,fever,male,63
+189,China,Hong Kong,fever,female,62
+190,China,Hunan,cough fever,female,57
+191,China,Hunan,fever,female,35
+192,China,Hunan,fever,female,40
+193,China,Hunan,fever,male,30
+214,China,Inner Mongolia,fever,male,30
+215,China,Jiangsu,fever,male,37
+224,China,Jiangxi,cough fever,male,56
+225,China,Jiangxi,cough fever,male,50
+231,China,Jiangxi,fever,male,35
+232,China,Jiangxi,fever,female,36
+233,China,Jiangxi,fever,female,35
+234,China,Jiangxi,fever weak,male,27
+235,China,Jiangxi,cough fever,female,40
+242,China,Jilin,cough fever,female,42
+245,China,Liaoning,cough fever,male,33
+246,China,Liaoning,cough fever soreness,male,40
+247,China,Liaoning,pharynx,female,50
+248,China,Liaoning,muscular soreness,male,42
+249,China,Macau,fever,male,66
+250,China,Macau,cough sore throat,female,52
+251,China,Ningxia,fever,male,29
+252,China,Ningxia,fever,male,28
+253,China,Shaanxi,fever,male,22
+254,China,Shaanxi,fever,female,32
+255,China,Shaanxi,fever,male,42
+256,China,Shaanxi,fever,male,23
+257,China,Shaanxi,fever,male,49
+258,China,Shandong,fever,male,38
+259,China,Shandong,fever,female,62
+260,China,Shandong,fever,male,65
+273,China,Shanghai,fatigue fever weakness,female,56
+274,China,Shanghai,cough fever runny nose,male,35
+285,China,Shanghai,fever,male,88
+294,China,Sichuan,fever,female,28
+295,China,Sichuan,fever,male,31
+296,China,Sichuan,cough dyspnea fever,male,50
+297,China,Sichuan,fever,male,48
+298,China,Sichuan,fatigue fever,male,36
+300,China,Sichuan,chills fever muscle aches other symptoms,male,37
+301,China,Sichuan,fatigue muscle aches sore throat,male,19
+302,China,Tianjin,cough fever,female,60
+303,China,Tianjin,cough fever,male,58
+306,China,Tianjin,fever,female,29
+309,China,Xinjiang,fever sore muscle weakness,male,47
+310,China,Xinjiang,fever sore muscle weakness,male,52
+311,China,Yunnan,fatigue fever,male,51
+312,China,Yunnan,cough fever,male,53
+313,China,Yunnan,systemic weakness runny nose fever,female,39
+314,China,Yunnan,fever,female,34
+315,China,Yunnan,fever,male,49
+336,China,Zhejiang,fever,male,46
+337,China,Zhejiang,fever,male,46
+452,China,Anhui,fever,female,40
+453,China,Anhui,fever,male,51
+454,China,Anhui,fever,male,37
+455,China,Anhui,fever,male,55
+456,China,Anhui,fever,male,32
+457,China,Anhui,fever,male,24
+458,China,Anhui,fever,male,39
+459,China,Anhui,fever,female,25
+460,China,Anhui,fever,male,56
+461,China,Anhui,fever,male,44
+462,China,Anhui,fever,male,50
+463,China,Anhui,fever,male,42
+464,China,Anhui,fever,male,43
+465,China,Anhui,fever sore throat,male,22
+466,China,Anhui,fever,male,43
+467,China,Anhui,fever muscular soreness rigor,male,51
+468,China,Anhui,chills diarrhea dyspnea headache lack of energy muscle pain,male,38
+469,China,Anhui,cough fever,male,59
+470,China,Anhui,cough fatigue fever,male,60
+471,China,Anhui,fever,male,35
+472,China,Anhui,fever pharyngalgia,female,25
+473,China,Anhui,fever,male,49
+474,China,Anhui,fever,male,41
+475,China,Anhui,fever,male,57
+476,China,Beijing,fever,male,36-45
+477,China,Beijing,fever,male,36-45
+478,China,Beijing,fever,male,36-45
+479,China,Beijing,fever,female,36-45
+480,China,Beijing,fever,female,36-45
+584,China,Shanxi,fever,male,26
+593,China,Shaanxi,fever,female,30
+594,China,Shaanxi,pneumonitis,female,64
+595,China,Shaanxi,fever,male,33
+596,China,Shaanxi,pneumonia,male,28
+597,China,Shaanxi,pneumonia,male,41
+599,China,Yunnan,fever,female,42
+600,China,Yunnan,fever,male,24
+601,China,Yunnan,fever,female,32
+602,China,Yunnan,fever,male,34
+603,China,Yunnan,fever,male,63
+604,China,Yunnan,fever,male,58
+610,China,Xinjiang,fever,male,49
+613,China,Qinghai,fever,male,27
+616,China,Hainan,fever,female,68
+617,China,Hainan,fever,male,45
+618,China,Hainan,cough discomfort fever other symptoms,female,65
+619,China,Hainan,fever,male,27
+638,France,Nouvelle-Aquitaine,flulike symptoms,male,48
+639,France,Ile-de-France,chills cough fatigue fever,female,30
+640,France,Ile-de-France,chills conjunctivitis cough fever,male,31
+641,Japan,Tokyo,fever pneumonia sore throat,male,40
+642,Japan,Tokyo,cough fever sore throat,male,30
+643,Japan,Tokyo,cough fever,female,30-39
+644,Malaysia,Wilayah Persekutuan Kuala Lumpur,asymptomatic,female,65
+645,Malaysia,Wilayah Persekutuan Kuala Lumpur,asymptomatic,male,2
+646,Malaysia,Wilayah Persekutuan Kuala Lumpur,asymptomatic,male,11
+656,Thailand,Nakhon Pathom,fever,female,73
+657,Thailand,Nonthaburi,fever,male,68
+658,Thailand,Bangkok Metropolis,chills fever headache sore throat,female,61
+659,Thailand,Bangkok Metropolis,fever,female,74
+660,Thailand,Bangkok Metropolis,coughing fever muscle aches,female,33
+661,United States,Illinois,fever,female,60
+662,United States,Washington,cough fever nausea,male,35
+663,Vietnam,Khanh Hoa,fever,male,66
+664,Vietnam,Khanh Hoa,fever,male,28
+665,Malaysia,Johor,cough fever,male,40
+666,Australia,New South Wales,fever,male,35
+667,Australia,New South Wales,fever,male,43
+668,Australia,New South Wales,fever,male,53
+669,Australia,Victoria,fever,male,50-59
+670,United States,California,fever,male,50
+671,Thailand,Bangkok Metropolis,cough fever myalgia,male,51
+672,Thailand,Prachuap Khiri Khan,fever,female,73
+675,South Korea,Seoul,chills fever,male,54
+676,Canada,Ontario,fever,male,56
+677,Japan,Tokyo,fever joint pain pneumonia,male,40
+876,China,Anhui,fever,male,43
+877,China,Anhui,fever,female,48
+878,China,Anhui,fever,female,54
+879,China,Anhui,fever,male,47
+880,China,Anhui,fever,male,55
+881,China,Anhui,cough fever,female,47
+882,China,Anhui,fever,female,46
+949,China,Guangxi,fever fatigue dry cough,female,47
+951,China,Jiangxi,fever,male,41
+952,China,Jiangxi,fever,male,36
+1004,China,Shaanxi,pneumonitis,female,70
+1005,China,Shaanxi,pneumonitis,female,52
+1010,China,Shaanxi,pneumonitis,male,44
+1048,China,Hong Kong,fever,male,47
+1049,China,Macau,fever,female,58
+1050,China,Macau,fever,female,39
+1051,China,Macau,dizziness sore limbs,female,21
+1055,China,Qinghai,fever,male,42
+1056,China,Qinghai,fever,female,38
+1057,China,Qinghai,fever,male,7
+1065,China,Jiangxi,fever,male,43
+1077,China,Hong Kong,cough fever,female,68
+1078,China,Hong Kong,fever,male,64
+1079,Australia,New South Wales,fever,female,21
+1080,Cambodia,Sihanoukville,fever runny nose,male,60
+1289,China,Anhui,fever,female,44
+1290,China,Anhui,fever,male,53
+1377,China,Shaanxi,pneumonia,male,39
+1378,China,Shaanxi,pneumonia,female,41
+1379,China,Shaanxi,fever,female,31
+1380,China,Shaanxi,pneumonitis,male,27
+1426,China,Gansu,fever,female,82
+1431,China,Guizhou,fever,male,34
+1432,China,Guizhou,fever,female,22
+1438,China,Macau,fever,female,67
+1442,Canada,Ontario,fever,female,50-59
+1449,China,Qinghai,fever,male,15
+1450,China,Qinghai,fever,male,30
+1462,Germany,Bavaria,chills fever myalgias sore throat,male,33
+1463,South Korea,Gyeonggi,aching muscles fever pneumonia,male,55
+1487,China,Jiangxi,fever,female,23
+1488,China,Anhui,dry cough,male,28
+1570,China,Anhui,fever,female,49
+1571,China,Anhui,fever,female,25
+1572,China,Anhui,fever,male,40
+1654,China,Sichuan,fever,female,59
+1655,China,Sichuan,fever,male,38
+1656,China,Sichuan,fever,male,37
+1657,China,Sichuan,fever,male,49
+1658,China,Sichuan,fever,female,43
+1659,China,Sichuan,fever,female,39
+1660,China,Sichuan,fever,male,41
+1661,China,Sichuan,fever,female,67
+1662,China,Sichuan,fever,female,52
+1663,China,Sichuan,fever,male,31
+1664,China,Sichuan,fever,female,34
+1665,China,Sichuan,fever,female,24
+1666,China,Sichuan,fever,male,47
+1667,China,Sichuan,fever,male,16
+1668,China,Sichuan,fever,male,32
+1669,China,Sichuan,fever,female,32
+1670,China,Sichuan,fever,male,25
+1671,China,Sichuan,fever,female,52
+1672,China,Sichuan,fever,female,42
+1673,China,Sichuan,fever,male,51
+1674,China,Sichuan,fever,male,43
+1747,Japan,Nara Prefecture,chills cough joint pain,male,60-69
+1748,Japan,Hokkaido,cough fever pneumonia,female,40-49
+1810,China,Shaanxi,pneumonitis,male,36
+1811,China,Shaanxi,pneumonitis,female,41
+1812,China,Shaanxi,pneumonitis,male,25
+1813,China,Shaanxi,pneumonitis,female,46
+1814,China,Shaanxi,pneumonitis,male,50
+1815,China,Shaanxi,pneumonitis,female,36
+1816,China,Shaanxi,pneumonitis,male,36
+1817,China,Shaanxi,pneumonitis,female,32
+1818,China,Shaanxi,pneumonitis,male,64
+1819,China,Shaanxi,pneumonitis,male,70
+1820,China,Shaanxi,pneumonitis,male,25
+1848,France,Ile-de-France,fever,male,80-89
+1856,Germany,Bavaria,fever,male,27-40
+1857,Germany,Bavaria,fever,male,27-40
+1858,Germany,Bavaria,fever,female,33
+1968,China,Jiangxi,fever,male,5
+1978,China,Macau,fever,male,15
+2001,Australia,Queensland,fever,male,44
+2002,China,Anhui,fever,male,22
+2003,China,Anhui,fever,male,22
+2004,China,Anhui,fever,female,22
+2005,China,Anhui,fever,male,22
+2006,China,Anhui,fever,male,24
+2007,China,Anhui,fever,male,22
+2008,China,Anhui,fever,male,30
+2009,China,Anhui,fever,female,30
+2010,China,Anhui,fever,female,64
+2011,China,Anhui,fever,female,52
+2012,China,Anhui,fever,female,45
+2013,China,Anhui,fever,male,40
+2014,China,Anhui,fever,female,52
+2325,China,Shaanxi,fever,female,46
+2326,China,Shaanxi,fever,male,49
+2327,China,Shaanxi,fever,male,36
+2328,China,Shaanxi,fever,male,29
+2329,China,Shaanxi,fever,male,26
+2330,China,Shaanxi,fever,male,27
+2331,China,Shaanxi,fever,male,46
+2332,China,Shaanxi,fever,male,66
+2333,China,Shaanxi,fever,female,3
+2334,China,Shaanxi,fever,female,45
+2440,Canada,British Columbia,fever,male,40-49
+2564,Finland,Lapland,fever,female,32
+2565,Australia,Victoria,fever,male,60-69
+2566,Japan,Osaka,fever,female,40-49
+2567,Japan,Kanagawa Prefecture,fever,male,30-39
+2899,China,Anhui,fever,female,56
+2900,China,Anhui,fever,male,49
+2901,China,Anhui,fever,female,34
+2902,China,Anhui,fever,male,71
+2903,China,Anhui,fever,female,22
+2904,China,Anhui,fever,female,16
+2905,China,Anhui,fever,male,28
+2906,China,Anhui,fever,female,47
+2907,China,Anhui,fever,male,35
+2908,China,Anhui,fever,male,37
+2932,Philippines,National Capital Region (NCR),fever,female,38
+2934,Australia,Victoria,fever,female,40-49
+2938,Australia,Queensland,fever,female,42
+2939,Japan,Tokyo,fever,male,50-59
+2940,Japan,Tokyo,fever,male,40-49
+2941,Japan,Tokyo,fever,female,50-59
+2942,Vietnam,Vinh Phuc,fever,male,29
+2943,Vietnam,Vinh Phuc,fever,female,23
+2948,China,Tibet,fever,male,34
+2965,Vietnam,Thanh Hoa,fever,female,25
+2975,Japan,Mie,fever,male,50-59
+2976,Japan,Kyoto Prefecture,fever,female,20-29
+2977,Japan,Tokyo,fever,female,30-39
+2978,China,Beijing,fever,male,28
+2979,China,Beijing,fever,female,44
+2980,China,Beijing,fever,male,33
+2981,China,Beijing,fever,male,49
+2982,China,Beijing,fever,male,80
+2983,China,Beijing,fever,female,45
+2984,China,Beijing,fever,male,45
+2985,China,Beijing,fever,male,77
+2990,South Korea,Seoul,fever,male,55
+2991,South Korea,Seoul,cough,male,33
+2992,United States,Illinois,fever,male,60-69
+3012,China,Qinghai,fever,male,44
+3020,China,Guizhou,fever,female,22
+3021,China,Guizhou,fever,female,50
+3022,China,Guizhou,fever,male,35
+3023,China,Hong Kong,fever,male,72
+3024,China,Hong Kong,fever,female,73
+3376,China,Gansu,fever,female,31
+3377,China,Gansu,fever,male,34
+3378,China,Gansu,fever,male,33
+3623,China,Hong Kong,cough,female,37
+3624,China,Hong Kong,cough dyspnea,male,75
+4051,China,Hong Kong,cough fever,male,39
+4090,China,Anhui,fever,female,31
+4091,China,Anhui,cough fever,female,28
+4092,China,Anhui,fever pharyngeal discomfort,male,37
+4093,China,Anhui,chills headache fever,female,51
+4094,China,Anhui,fever sore throat sputum,female,45
+4095,China,Anhui,cough fever,female,27
+4096,China,Anhui,fever,male,32
+4097,China,Anhui,physical discomfort,male,35
+4098,China,Anhui,fever,female,34
+4222,China,Gansu,discomfort,male,31
+4223,China,Gansu,weakness,female,66
+4224,China,Gansu,fever,female,48
+4225,China,Gansu,fever,male,32
+4226,China,Gansu,fever cough,male,60
+4337,China,Guangxi,fever,male,38
+4339,China,Hainan,fever,male,65
+4340,China,Hainan,fever,female,48
+4341,China,Hainan,fever,female,63
+4508,China,Inner Mongolia,fever,male,37
+4509,China,Inner Mongolia,chest tightness fever nausea,male,40
+4510,China,Inner Mongolia,fever,female,57
+4589,China,Jilin,fever,male,56
+4590,China,Jilin,fever,female,55
+4591,China,Jilin,fever,female,31
+4609,China,Qinghai,fever,male,43
+4719,China,Yunnan,fever,female,70
+4720,China,Yunnan,fever,female,53
+4721,China,Yunnan,fever,male,72
+4722,China,Yunnan,fever,female,45
+4723,China,Yunnan,fever,female,62
+4724,China,Yunnan,fever,female,37
+4792,Germany,Bavaria,fever,male,33
+4793,Germany,Bavaria,fever,male,52
+4798,Vietnam,Khanh Hoa,cough fever,female,25
+4800,Philippines,National Capital Region (NCR),cough sore throat,male,44
+4801,Canada,Ontario,fever,female,20-29
+4802,Malaysia,Johor,fever,female,49
+4804,Australia,South Australia,fever,male,60
+4805,Australia,South Australia,fever,female,60
+4806,Australia,Victoria,fever,female,20-29
+4807,South Korea,Seoul,cough fever,male,28
+4809,South Korea,Seoul,fever,female,28
+4810,South Korea,Seoul,fever,male,54
+4811,South Korea,Seoul,fever,male,25
+4812,South Korea,Gyeonggi,fever,male,49
+4813,South Korea,Seoul,fever,male,28
+4814,South Korea,Gyeonggi,fever,female,40
+4815,South Korea,Seoul,fever,male,43
+4816,Japan,Chiba Prefecture,cough runny nose,female,20-29
+4822,United States,Massachusetts,runny nose,male,20-29
+4833,China,Hong Kong,cough fever,male,80
+4835,China,Beijing,fever,female,57
+4836,China,Beijing,fever,female,31
+4837,China,Beijing,fever,male,52
+4838,China,Beijing,fever,female,59
+4839,China,Beijing,fever,female,29
+4840,China,Beijing,fever,male,30
+4841,China,Beijing,fever,male,77
+4842,China,Beijing,fever,male,10
+4843,China,Beijing,fever,female,34
+4844,China,Beijing,fever,female,61
+4845,China,Beijing,fever,male,59
+4846,China,Beijing,fever,female,56
+4847,China,Beijing,fever,female,28
+4848,China,Beijing,fever,male,61
+4849,China,Beijing,fever,male,35
+4850,China,Beijing,fever,female,42
+4851,China,Beijing,fever,male,20
+4852,China,Beijing,fever,female,44
+4853,China,Beijing,fever,male,75
+4854,China,Beijing,fever,female,43
+4855,China,Beijing,fever,male,66
+4856,China,Beijing,fever,male,44
+4857,China,Beijing,fever,female,39
+5035,China,Shaanxi,fever,male,64
+5036,China,Shaanxi,fever,male,74
+5037,China,Shaanxi,fever,female,62
+5038,China,Shaanxi,fever,female,5
+5039,China,Shaanxi,fever,female,68
+5040,China,Shaanxi,fever,male,70
+5041,China,Shaanxi,fever,male,39
+5042,China,Shaanxi,fever,male,48
+5043,China,Shaanxi,fever,male,72
+5044,China,Shaanxi,fever,female,73
+5045,China,Shaanxi,fever,female,34
+5046,China,Shaanxi,fever,female,50
+5047,China,Shaanxi,fever,male,36
+5048,China,Shaanxi,fever,female,56
+5049,China,Gansu,cough fever,male,26
+5050,China,Gansu,fever,female,73
+5051,China,Gansu,cough fever sputum,male,44
+5052,China,Gansu,cough fever,male,36
+5053,China,Gansu,cough fever,female,38
+5054,China,Gansu,fever,female,20
+5055,China,Gansu,cough sputum,female,64
+5056,China,Gansu,cough sore throat sputum,male,59
+5057,China,Gansu,fever,female,39
+5058,China,Gansu,chills fatigue,female,46
+5059,China,Gansu,fever,female,94
+5089,Vietnam,Vinh Phuc,fever,female,29
+5090,China,Hong Kong,cough,female,72
+5097,China,Jilin,fever,female,48
+5098,China,Jilin,fever,female,80
+5099,China,Jilin,fever,male,24
+5120,China,Guizhou,fever,female,75
+5121,China,Guizhou,fever,female,36
+5122,China,Guizhou,fever,male,10
+5128,China,Guangxi,fever dry cough fatigue,male,47
+5129,China,Jilin,fever,female,34
+5228,China,Guizhou,fever,male,41
+5274,China,Jilin,fever,male,42
+5310,China,Guizhou,fever,male,53
+5361,United States,California,fever,female,57
+5362,United States,California,fever,male,57
+5486,China,Jilin,fever,male,30
+5487,China,Jilin,fever,male,81
+5488,China,Jilin,fever,male,32
+5493,China,Guizhou,fever,male,24
+5494,China,Guizhou,fever,female,56
+5526,China,Shaanxi,fever,female,52
+5527,China,Shaanxi,fever,female,47
+5528,China,Shaanxi,fever,male,54
+5529,China,Shaanxi,fever,male,50
+5530,China,Shaanxi,fever,male,50
+5587,China,Guangdong,fever,female,49
+5689,China,Shaanxi,fever,female,35
+5690,China,Shaanxi,fever,female,37
+5691,China,Shaanxi,fever,male,24
+5692,China,Shaanxi,fever,female,50
+5693,China,Shaanxi,fever,female,76
+5694,China,Shaanxi,fever,male,38
+5695,China,Shaanxi,lesions on chest radiographs,male,47
+5706,China,Tianjin,fever,female,56
+5707,China,Tianjin,fever,female,32
+5708,China,Tianjin,fever,female,42
+5709,China,Tianjin,fever,female,66
+5710,China,Tianjin,cough fever,female,36
+5711,China,Tianjin,fever,female,37
+5712,China,Tianjin,cough fever,female,46
+5713,China,Tianjin,fever,male,43
+5792,China,Qinghai,fever,female,33
+5793,China,Qinghai,fever,male,43
+5794,China,Qinghai,chest tightness,female,42
+5795,China,Qinghai,fever,male,26
+5851,Malaysia,Selangor,cough fever,male,41
+5852,Malaysia,Wilayah Persekutuan Kuala Lumpur,fever,male,63
+5853,China,Macau,cough fever runny nose,male,59
+5854,China,Macau,cough fever runny nose,female,29
+5856,Vietnam,Vinh Phuc,fever,male,30
+5869,China,Hong Kong,fever,male,60
+5870,China,Hong Kong,cough fever,female,64
+5871,Vietnam,Vinh Phuc,fever,female,42
+5874,Australia,Queensland,fever,male,8
+5901,China,Tianjin,fever,male,29
+5902,China,Tianjin,fever,female,69
+5903,China,Tianjin,cough fever,male,9
+5904,China,Tianjin,fever,male,61
+5905,China,Shaanxi,fever,male,51
+5906,China,Guizhou,fever,female,27
+5907,China,Guizhou,fever,male,29
+5908,China,Guizhou,fever,female,56
+5909,China,Guizhou,fever,female,20
+5917,China,Shaanxi,fever,female,64
+5918,China,Shaanxi,fever,male,65
+5922,China,Guizhou,fever,female,61
+5923,China,Guizhou,fever,female,53
+5924,China,Guizhou,fever,female,0.08333
+5933,China,Guizhou,fever,male,27
+5934,China,Guizhou,fever,male,42
+5935,China,Shaanxi,fever,male,56
+5937,China,Shaanxi,fever,male,49
+5948,China,Shaanxi,fever,female,65
+5952,China,Shaanxi,fever,male,52
+5953,China,Shaanxi,fever,male,33
+5954,China,Shaanxi,fever,female,41
+5959,China,Shaanxi,fever,male,51
+5960,China,Shaanxi,fever,male,37
+5962,China,Shaanxi,fever,male,41
+5963,China,Shaanxi,fever,female,45
+5965,China,Shaanxi,fever,male,41
+5966,China,Guizhou,fever,male,30
+5967,China,Hong Kong,cough diarrhoea runny nose,male,25
+5983,China,Shaanxi,fever,female,27
+5984,China,Shaanxi,fever,female,51
+5985,China,Tianjin,cough fever eventually showed acute left heart failure and acute coronary syndrome,female,66
+5986,China,Tianjin,cough high fever myalgia,female,51
+5987,China,Tianjin,fever myalgia,male,65
+6041,China,Shaanxi,fever,male,49
+6068,China,Guizhou,fever,female,23
+6069,China,Guizhou,fever,male,51
+6070,Vietnam,Vinh Phuc,cough,female,49
+6071,Vietnam,Vinh Phuc,cough fever,female,16
+6074,Philippines,Cebu,fever,female,60
+6075,China,Hong Kong,cough fever shortness of breath,female,64
+6100,China,Hainan,fever,female,60
+6101,China,Hainan,fever,female,62
+6163,China,Gansu,fever,female,77
+6164,China,Gansu,fatigue,male,69
+6177,China,Jilin,fever,male,49
+6178,China,Yunnan,fever,female,12
+6179,China,Yunnan,fever,male,15
+6180,China,Yunnan,fever,male,46
+6213,China,Shaanxi,fever,male,60
+6233,China,Guangxi,feversore throat fatigue diarrhea,female,54
+6234,China,Guangxi,fever fatigue,male,62
+6235,China,Guangxi,fever sore throatfatiguevomiting,female,60
+6236,China,Guangxi,cough,female,45
+6309,Australia,Queensland,fever,female,37
+6310,Australia,Queensland,fever,male,37
+6312,China,Jilin,fever,female,31
+6401,China,Guizhou,fever,female,33
+6402,China,Guizhou,fever,male,56
+6403,China,Guizhou,fever,female,54
+6404,South Korea,Gyeonggi,fever,male,38
+6409,China,Inner Mongolia,fever,female,52
+6412,China,Hainan,fever,male,69
+6413,China,Hainan,fever,female,32
+6461,China,Anhui,chest tightness fever,female,55
+6462,China,Anhui,fever joint pain muscle soreness,female,48
+6463,China,Anhui,fever,female,43
+6464,China,Anhui,fever,male,35
+6465,China,Anhui,fever,male,29
+6466,China,Anhui,cough fever,male,51
+6467,China,Anhui,chills fever,male,35
+6468,China,Anhui,cough fever,female,28
+6469,China,Anhui,chest pain nasal congestion,female,78
+6470,China,Anhui,cough muscle soreness sweating,female,38
+6471,China,Anhui,cough fever,male,36
+6488,China,Hong Kong,fever,male,56
+6491,China,Hong Kong,fever,female,55
+6492,China,Hong Kong,fever,female,63
+6493,China,Hong Kong,fever,female,65
+6494,China,Gansu,fever,male,68
+6609,China,Jilin,fever,male,46
+6624,China,Yunnan,fever,female,48
+6625,China,Yunnan,fever,male,45
+6626,China,Yunnan,fever,male,47
+6637,China,Shaanxi,fever,female,83
+6638,China,Shaanxi,fever,female,66
+6652,China,Shaanxi,fever,female,35
+6666,China,Jilin,fever,male,47
+6667,China,Jilin,fever,female,8
+6668,China,Gansu,fever,female,51
+6723,China,Gansu,fever,female,52
+6882,China,Gansu,fever,female,60
+6883,China,Hainan,fever,male,59
+6885,China,Yunnan,fever,female,22
+7116,China,Jilin,fever,female,45
+7127,Canada,British Columbia,fever,female,50-59
+7128,China,Hainan,fever,male,65
+7135,China,Shaanxi,fever,male,50
+7136,China,Shaanxi,fever,female,77
+7137,China,Shaanxi,fever,male,48
+7138,China,Hainan,fever,male,49
+7228,China,Shaanxi,fever,male,66
+7229,China,Shaanxi,fever,male,47
+7230,China,Shaanxi,fever,female,43
+7316,China,Shaanxi,fever,female,67
+7320,China,Shaanxi,fever,male,33
+7343,China,Shaanxi,pneumonitis,female,53
+7344,China,Shaanxi,fever,female,50
+7392,China,Hong Kong,fever myalgia shortness of breath,male,60
+7424,China,Shaanxi,fever,female,62
+7425,China,Jilin,fever,male,42
+7426,China,Jilin,fever,female,41
+7466,China,Guizhou,fever,female,49
+7532,South Korea,Seoul,fever,female,41
+7595,China,Tianjin,cough fever,female,64
+7596,China,Tianjin,fever,female,35
+7597,China,Tianjin,fever,male,75
+7598,China,Tianjin,fever,female,61
+7599,Japan,Chiba Prefecture,cough fever pneumonia respiratory distress,female,50-59
+7600,Japan,Chiba Prefecture,fever runny nose,female,30-39
+7605,South Korea,Seoul,fever,female,20
+7606,Japan,Chiba Prefecture,cough fever,male,40-49
+7607,Japan,Kyoto Prefecture,fever,male,20-29
+7849,China,Jilin,fever,female,43
+7850,China,Jilin,fever,female,49
+7851,China,Jilin,fever,male,24
+7852,China,Jilin,fever,female,39
+7853,China,Jilin,fever,female,11
+7854,China,Jilin,fever,female,45
+8054,China,Shaanxi,fever,male,65
+8055,China,Shaanxi,fever,male,21
+8056,China,Shaanxi,fever,female,64
+8057,China,Shaanxi,fever,male,63
+8058,China,Shaanxi,fever,male,53
+8059,China,Shaanxi,fever,male,39
+8060,China,Shaanxi,fever,male,71
+8061,China,Shaanxi,fever,female,45
+8062,China,Shaanxi,fever,female,27
+8063,China,Shaanxi,fever,male,42
+8064,China,Shaanxi,fever,male,25
+8195,China,Guizhou,fever,female,84
+8197,China,Guizhou,nausea vomiting,male,68
+8198,China,Guizhou,fever,male,49
+8199,China,Guizhou,fever,female,24
+8200,China,Guizhou,fever,male,21
+8201,China,Guizhou,fever,male,55
+8202,China,Guizhou,fever,male,33
+8203,China,Guizhou,fever,female,63
+8204,China,Guizhou,fever,female,30
+8205,China,Guizhou,fever,male,64
+8206,China,Guizhou,fever,female,38
+8207,China,Guizhou,fever,female,35
+8209,Japan,Aichi Prefecture,fever headache,female,60-60
+8210,Japan,Aichi Prefecture,fever,male,60-69
+8211,Japan,Aichi Prefecture,fever full body slump,male,60-69
+8212,Japan,Aichi Prefecture,cough fever,male,60-69
+8452,Germany,Bavaria,fever,male,49
+8492,Canada,British Columbia,fever,male,30-39
+8493,Canada,British Columbia,fever,female,30-39
+8496,Japan,Chiba Prefecture,cough fever,male,50-59
+8612,China,Gansu,fever cough,female,42
+8613,China,Gansu,fever cough,female,26
+8614,China,Gansu,fever dry throat sore throat,male,37
+8615,China,Gansu,fever runny nose,male,24
+8616,China,Gansu,fever,male,41
+8617,China,Gansu,dry throat sore throat fatigue,female,54
+8618,China,Gansu,headache dry mouth,female,29
+8619,China,Gansu,fever dry mouth throat discomfort,female,38
+8620,China,Gansu,fever,male,29
+8621,China,Gansu,fever,female,58
+8622,China,Gansu,fever,female,41
+8623,China,Gansu,fever,male,56
+8624,China,Gansu,fever,male,68
+8625,China,Gansu,pharyngeal discomfort,female,55
+8626,China,Gansu,fever,female,27
+8627,China,Gansu,diarrhea,female,1
+8628,China,Gansu,cough throat discomfort,female,46
+8629,China,Gansu,fever,female,55
+8630,China,Gansu,Pharyngeal dryness,female,33
+8631,China,Gansu,cough sputum fever,male,23
+8632,China,Gansu,fever,female,27
+8633,China,Gansu,dry throat dry cough,female,53
+8634,China,Gansu,chest pain cough,female,34
+8635,China,Gansu,fever,female,79
+8636,China,Gansu,cough chest tightness dry mouth,female,58
+8637,China,Gansu,cough fever,male,57
+8638,China,Gansu,fever,female,45
+8639,China,Gansu,fever,male,67
+8640,China,Gansu,fever,male,33
+8641,China,Gansu,fever,female,40
+8642,China,Gansu,fever,male,49
+8643,China,Gansu,fever,male,29
+8644,China,Gansu,fever,male,47
+8645,China,Gansu,fever,male,54
+8852,China,Guangxi,fever cough fatigue nausea,male,60
+8880,China,Guangxi,fever cough,male,65
+8881,China,Guangxi,fever fatigue,female,38
+8888,China,Guizhou,cough fever,male,26
+8889,China,Guizhou,fever,male,87
+8890,China,Guizhou,cough fever sputum,male,27
+8891,China,Guizhou,fever,female,4
+8892,China,Guizhou,fever,female,50
+8893,China,Guizhou,fever,female,39
+8894,China,Guizhou,fever,male,2
+8895,China,Guizhou,fever,female,84
+8899,China,Guizhou,fever,male,21
+8900,China,Guizhou,fever,male,55
+8901,China,Guizhou,fever,male,49
+8902,China,Guizhou,cough fever,male,33
+8903,China,Guizhou,fever,female,21
+8904,China,Guizhou,fever,male,26
+8905,China,Guizhou,fever,female,64
+8906,South Korea,Gyeonggi,cough fever sore throat,female,73
+8944,China,Hainan,fever,female,51
+9370,China,Hong Kong,fever,male,51
+9371,China,Hong Kong,cough diarrheoa vomiting,male,43
+9372,China,Hong Kong,chills cough fever,female,67
+9373,China,Hong Kong,fever,male,37
+9374,China,Hong Kong,fever,female,41
+9377,China,Hong Kong,fever,male,25
+9378,China,Hong Kong,fever,male,54
+9561,China,Inner Mongolia,cough fever,male,50
+9562,China,Inner Mongolia,cough fatigue fever,female,61
+9942,China,Jilin,fever,male,66
+9943,China,Jilin,fever,female,27
+9944,China,Jilin,fever,male,17
+9945,China,Jilin,fever,female,51
+9946,China,Jilin,fever,male,68
+9947,China,Jilin,fever,male,26
+9948,China,Jilin,fever,male,30
+9949,China,Jilin,fever,female,53
+9950,China,Jilin,fever,male,35
+9951,China,Jilin,fever,female,27
+9952,China,Jilin,fever,male,28
+9953,China,Jilin,fever,female,58
+9954,China,Jilin,fever,female,33
+9966,China,Jilin,fever,male,33
+9967,China,Jilin,fever,male,50
+9968,China,Jilin,fever,female,33
+9969,China,Jilin,fever,male,45
+9970,China,Jilin,fever,male,24
+9971,China,Jilin,fever,male,88
+9972,China,Jilin,fever,female,29
+9973,China,Jilin,fever,female,21
+9974,China,Jilin,fever,female,78
+9975,China,Jilin,fever,male,52
+9976,China,Jilin,fever,female,60
+10248,Japan,Kanagawa Prefecture,fever,male,50
+10348,Japan,Kanagawa Prefecture,fever severe pneumonia,male,60
+10374,Italy,Emilia-Romagna,eye irritation fever,male,29
+10375,Japan,Saitama,fever,male,40-49
+10387,China,Shaanxi,fever,female,82
+10603,Japan,Tokyo,cough fever sore throat,male,20-29
+10611,Japan,Tokyo,cough fever,male,40-49
+10612,Japan,Tokyo,fever,male,60-69
+10613,Japan,Tokyo,dyspnea fever,male,80-89
+10614,Japan,Tokyo,cough difficulty breathing fever,male,50-59
+10615,Japan,Tokyo,fever,male,20-29
+10619,Vietnam,Vinh Phuc,fever,female,29
+10620,Vietnam,Vinh Phuc,fever headache runny nose,female,55
+10621,Vietnam,Vinh Phuc,cough runny nose,female,0.25
+10622,Vietnam,Vinh Phuc,transient fatigue,male,50
+10623,Japan,Wakayama Prefecture,fever,male,13-19
+10624,Japan,Wakayama Prefecture,fever,male,60-69
+10625,Japan,Wakayama Prefecture,fever,male,30-39
+10626,Japan,Wakayama Prefecture,fever  ° C,male,50-59
+10627,Japan,Wakayama Prefecture,. ° C mild coughing,female,50-59
+10628,Japan,Wakayama Prefecture,cough,male,60-69
+10640,China,Yunnan,fever,male,33
+10641,China,Yunnan,fever,male,7
+10642,China,Yunnan,fever,male,33
+10643,China,Yunnan,fever,male,7
+10644,China,Yunnan,fever,male,44
+10645,China,Yunnan,cough,female,69
+10646,China,Yunnan,abdominal pain pulmonary inflammation,female,16
+10647,China,Yunnan,fever,female,47
+10648,China,Yunnan,fever,female,35
+10649,China,Yunnan,fever,male,8
+10650,China,Yunnan,Sore throat,male,43
+10651,China,Yunnan,fever,male,10
+10652,China,Yunnan,fever,female,55
+10653,China,Yunnan,fever,male,47
+10654,China,Yunnan,fever,male,25
+10655,China,Yunnan,fever,female,47
+10656,China,Yunnan,fever,male,38
+10657,China,Yunnan,fever,female,30
+10658,China,Yunnan,fever,female,26
+10659,China,Yunnan,fever,male,47
+10660,China,Yunnan,fever,male,42
+10661,China,Yunnan,cough,female,34
+10662,China,Yunnan,fever,female,62
+10663,China,Yunnan,fever,male,39
+10871,South Korea,Seoul,fever,male,24
+10886,Malaysia,Selangor,feeling ill coughing,male,31
+10970,Malaysia,Wilayah Persekutuan Kuala Lumpur,cough fever,female,39
+10971,Japan,Chiba Prefecture,cough fever,male,20-29
+10972,Japan,Kanagawa Prefecture,anorexia fatigue,female,80-89
+10978,Japan,Wakayama Prefecture,abdominal pain diarrhea fever general malaise,male,50-59
+10979,Japan,Tokyo,fever,male,70-79
+10980,Japan,Kanagawa Prefecture,fever,male,30
+10981,Japan,Aichi Prefecture,fever,male,60-69
+10982,Japan,Hokkaido,cough fever malaise,male,50-59
+10993,Japan,Tokyo,fever,male,70
+10994,Japan,Tokyo,fever,female,50-59
+10996,Japan,Okinawa,poor physical condition,female,60-60
+10997,Japan,Wakayama Prefecture,fever,male,70-79
+10998,Malaysia,Wilayah Persekutuan Kuala Lumpur,fever,female,65
+11000,South Korea,Seoul,fever,female,57
+11001,Malaysia,Kedah,fever,male,27
+11010,South Korea,Seoul,fever,male,82
+11116,China,Hainan,fever,male,65
+11117,China,Hainan,fever,female,58
+11118,China,Hainan,fever,male,73
+11180,China,Guangxi,fever,male,69
+11187,China,Yunnan,fever,female,24
+11206,Italy,Lombardia,fever,male,38
+11219,Italy,Lombardia,fever,female,77
+11220,Italy,Veneto,fever,male,78
+11222,Italy,Lombardia,fever,female,68
+11231,Japan,Kumamoto,fever,female,20-29
+11232,Japan,Kumamoto,fever,male,50-59
+11233,Lebanon,Beirut,yes,female,45
+11235,Japan,Tokyo,fever,female,50-59
+11236,Japan,Tokyo,fever,female,70-79
+11237,Japan,Tokyo,fever,female,50-59
+11238,Canada,British Columbia,fever,female,30-39
+11239,Japan,Aichi Prefecture,fever,male,70-79
+11240,Japan,Aichi Prefecture,fever,female,20-29
+11241,Japan,Chiba Prefecture,fever,male,60-69
+11242,Japan,Ishikawa,fever .,male,50-59
+11243,Japan,Saitama,fever . ℃,male,0-6
+11244,Japan,Hokkaido,fever .℃,male,0-10
+11245,Japan,Hokkaido,fever .℃,male,0-10
+11246,Japan,Hokkaido,fever .℃,female,40-49
+11247,Japan,Kanagawa Prefecture,anorexia,male,80-89
+11391,Japan,Chiba Prefecture,nausea cough pneumonia fever,female,60-69
+11392,Japan,Chiba Prefecture,fever,female,30-39
+11393,Japan,Wakayama Prefecture,fever,male,40-49
+11491,Japan,Hokkaido,fever,female,50-59
+11492,Japan,Hokkaido,fever . ℃ cough,male,60-69
+11493,Japan,Hokkaido,fever  ° C,female,13-19
+11494,Japan,Hokkaido,fever  C,female,70-79
+11495,Japan,Hokkaido,malaise headache,female,50-59
+11496,Japan,Hokkaido,fever  ℃ breathing difficulty,male,50-59
+11497,Japan,Hokkaido,fever . ℃ then  ℃ cough malaise,male,70-79
+11498,Japan,Hokkaido,sore throat Cough fever  ℃,female,50-59
+11499,Japan,Hokkaido,difficulty breathing,male,80-89
+11500,Japan,Ishikawa,fever,male,10-19
+11501,Japan,Kanagawa Prefecture,fever,male,50-59
+11502,Japan,Kanagawa Prefecture,fever,female,50-59
+11503,Japan,Kanagawa Prefecture,fever,female,20-29
+11504,Japan,Kanagawa Prefecture,fever,female,20-29
+11505,Japan,Chiba Prefecture,fever shortness of breath pneumonia,female,50-59
+11506,Japan,Tokyo,severe dyspnea,male,60-69
+11507,Japan,Aichi Prefecture,fever,male,60-69
+11508,Japan,Aichi Prefecture,fever,male,60-69
+11509,Japan,Aichi Prefecture,fever,female,60-69
+11510,Japan,Aichi Prefecture,fever,female,40-49
+11530,Italy,Lombardia,fever,male,78
+11532,Italy,Piemonte,fever,male,40
+11559,China,Hong Kong,fever cough,female,96
+11562,Japan,Chiba Prefecture,nausea,female,60-69
+11605,China,Guangxi,fever,male,10
+11620,China,Guangxi,fever fatigue,male,62
+11621,China,Guangxi,chest tightness fatigue,female,52
+11650,China,Guangxi,fever,male,43
+11664,China,Guangxi,cough fever,female,44
+11665,China,Guangxi,fever nasal congestion runny nose sore throat cough,female,55
+11682,Japan,Hokkaido,fever,male,70-79
+11683,Japan,Aichi Prefecture,fever,female,70-79
+11684,Japan,Aichi Prefecture,fever,male,70-79
+11685,Japan,Chiba Prefecture,fever,male,40-49
+11686,Japan,Hokkaido,fever,male,30-39
+11687,Japan,Hokkaido,fever,female,60-69
+11688,Japan,Hokkaido,fever .,male,20-29
+11689,Japan,Hokkaido,fever ,male,70-79
+11690,Japan,Hokkaido,fever ,female,30-39
+11691,Japan,Hokkaido,fever,male,80-89
+11692,Japan,Hokkaido,fever,female,40-49
+11693,Japan,Hokkaido,fever,female,20-29
+11710,China,Shanxi,fever,female,28
+11712,China,Jiangsu,fever,female,43
+11713,China,Jiangsu,fever,female,32
+11716,China,Jilin,fever,female,63
+11717,China,Jilin,fever,male,64
+11718,Japan,Kanagawa Prefecture,fever,male,50-59
+11719,Japan,Tokyo,fever,male,40-49
+11720,Japan,Aichi Prefecture,fever,male,60-69
+11722,South Korea,Busan,fever,female,22
+11723,South Korea,Busan,fever,female,24
+11724,China,Gansu,fever,female,1.75
+11725,China,Gansu,fever,male,53
+11726,China,Gansu,fever,male,68
+11727,Japan,Kumamoto,fever,male,60-69
+11728,China,Gansu,cough sputum fever,male,57
+11729,China,Gansu,fever,female,50
+11730,China,Gansu,fever,male,51
+11731,China,Gansu,dry cough,female,52
+11732,China,Gansu,cough sore body cold,male,41
+11737,China,Gansu,fever,female,33
+11738,China,Gansu,fever,female,20
+11743,Finland,Southern Finland,fever,female,18-65
+11745,Spain,Andalusia,fever,male,62
+11746,Spain,Catalonia,fever,male,22
+11752,Canada,British Columbia,fever,male,40-49
+11754,Canada,British Columbia,fever,female,30-39
+11782,Pakistan,Sindh,fever,male,22
+11783,Greece,Macedonia,fever,female,38
+11788,Afghanistan,Herat,fever,male,35
+11794,Germany,Baden-Wuerttemberg,fever,male,25
+11796,France,Ile-de-France,fever,female,33
+11797,France,Auvergne-Rhone-Alpes,fever,male,55
+11798,France,Hauts-de-France,fever,male,55
+11799,France,Grand Est,fever,male,36
+11800,France,Ile-de-France,fever,male,60
+11804,Germany,North Rhine-Westphalia,fever sore throat mild cough,male,41
+11806,Germany,North Rhine-Westphalia,fever,male,47
+11807,Romania,Gorj,fever,male,20
+12232,China,Hong Kong,fever,Female,21
+12233,China,Hong Kong,cough,Male,16
+12234,China,Hong Kong,fever,Male,80
+12236,China,Hong Kong,fever cough,Male,33
+12237,China,Hong Kong,cough,Female,55
+12238,China,Hong Kong,fever,Male,24
+12239,China,Hong Kong,cough,Female,60
+12240,Japan,Chiba Prefecture,low fever . ℃,male,60-69
+12241,Japan,Chiba Prefecture,low fever . ℃,male,50-59
+12242,Japan,Chiba Prefecture,low fever . ° C cough,male,70-79
+12243,Japan,Hokkaido,fever . ℃ malaise,male,20-29
+12244,Japan,Hokkaido,sore throat fever nasal discharge,female,20-29
+12245,Japan,Hokkaido,fever . ° C pneumonia,male,70-79
+12247,Japan,Hokkaido,fever . ℃ cough,female,70-79
+12248,Japan,Hokkaido,fever  ° C malaise,female,70-79
+12249,Japan,Hokkaido,fever cough,male,40-49
+12250,Japan,Hokkaido,fever,male,60-69
+12251,Japan,Kanagawa Prefecture,fever . ℃ Cough malaise anorexia,male,50-59
+12252,Japan,Osaka,Discharge cough sore throat chest pain,female,40-49
+12253,Japan,Tokyo,fever cough phlegm dyspnea,male,80-89
+12254,Japan,Tokyo,fever cough phlegm dyspnea,male,70-79
+12255,Japan,Tokyo,fever cough phlegm,male,70-79
+12256,Japan,Aichi Prefecture,fever . ℃  sore throat,male,50-59
+12257,Japan,Aichi Prefecture,fever,male,60-69
+12258,Japan,Aichi Prefecture,rever cough,male,70-79
+12259,Japan,Aichi Prefecture,fever . ℃  couh,male,70-79
+12260,Japan,Aichi Prefecture,fever . ℃  cough,female,70-79
+12261,Japan,Nagano,fever,female,50-59
+12262,Japan,Gifu,malaise fever  ℃ headache toothache pneumonia,male,50-59
+12263,Japan,Gifu,Sore throat chills,female,50-59
+12264,Japan,Ishikawa,fever ,male,50-59
+12265,Japan,Kanagawa Prefecture,fever .  headache malaise,male,50-59
+12266,Japan,Tokyo,fever cough phlegm,female,60-69
+12267,Japan,Osaka,Fever cough headache,male,40-49
+12268,Japan,Hokkaido,fever .,male,50-59
+12269,Japan,Hokkaido,cough malaise,male,50-59
+12270,Japan,Hokkaido,sore throat fever  ℃,male,30-39
+12271,Japan,Hokkaido,fatigue fever  ℃,male,70-79
+12272,Japan,Hokkaido,fever . ℃,male,60-69
+12273,Japan,Hokkaido,vomiting cough fever . ℃ sore throat,male,40-49
+12274,Japan,Hokkaido,fever  ° C joint pain,male,40-49
+12275,Japan,Hokkaido,fever . ℃ cough,male,0-10
+12276,Japan,Hokkaido,fever . ℃ Headache malaise joint pain,male,30-39
+12277,Japan,Hokkaido,fever . ℃ cough,male,0-10
+12278,Japan,Hokkaido,fever . ℃ cough,male,80-89
+12279,Japan,Hokkaido,cough fever . ℃ joint pain,male,30-39
+12280,Japan,Hokkaido,Cough fever  ℃,male,80-89
+12281,Japan,Hokkaido,Fever . ° C malaise sore throa,male,60-69
+12282,Japan,Hokkaido,cough sore throat,female,0-10
+12283,Japan,Aichi Prefecture,Fever  ° C,female,60-69
+12284,Japan,Aichi Prefecture,Fever . ° C cough headache.,male,60-69
+12295,Lebanon,Beirut,fever,male,77
+12313,Thailand,Nonthaburi,fever,female,54
+12315,Thailand,Nonthaburi,fever,male,65
+12316,Thailand,Nonthaburi,fever,female,62
+12317,Thailand,Nonthaburi,fever,male,8
+12320,Thailand,Nonthaburi,fever,male,29
+12587,Spain,Castilla y Leon,fever,male,18
+12588,Spain,Castilla y Leon,fever,male,28
+12589,Italy,Liguria,fever,female,72
+12590,Italy,Liguria,fever,male,54
+12591,Italy,Puglia,fever,male,43
+12592,Italy,Lombardia,fever,female,4
+12593,Italy,Lombardia,fever,male,10
+12594,Italy,Lombardia,fever,male,10
+12989,Italy,Campania,fever,female,24
+13115,Switzerland,Aargau,fever,male,26
+13140,Switzerland,Basel,fever,male,23
+13153,Japan,Kanagawa,chills headache fatigue,female,40-49
+13154,Japan,Kanagawa,fever,male,20-29
+13155,Japan,Shizuoka,cough sore throat,male,60-69
+13156,Japan,Hokkaido,cough phlegm fever  degrees,female,80-89
+13157,Japan,Hokkaido,fever . ℃,male,0-10
+13158,Japan,Hokkaido,fever . ℃ Fatigue difficulty walking,male,80-89
+13159,Japan,Hokkaido,cough,female,60-69
+13160,Japan,Hokkaido,fever . ℃,male,60-69
+13161,Japan,Hokkaido,chills  fever  ℃ malaise,male,60-69
+13162,Japan,Hokkaido,Sputum cough symptoms fever  ℃ cough breathing difficulty,female,60-69
+13163,Japan,Hokkaido,fever . ℃ fever . ℃,male,40-49
+13164,Japan,Hokkaido,fever . ℃ ～ . ℃,male,70-79
+13165,Japan,Hokkaido,fever,female,60-69
+13166,Japan,Hokkaido,fever and cough,female,60-69
+13167,Japan,Hokkaido,fever,male,60-69
+13168,Japan,Ishikawa,fever,male,50-59
+13169,Japan,Aichi Prefecture,fever  ° C,male,60-69
+13170,Japan,Osaka,fever  ° C,female,40-49
+13171,Japan,Osaka,fever,female,0-10
